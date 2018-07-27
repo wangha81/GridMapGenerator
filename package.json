@@ -1,0 +1,26 @@
+{
+  "name": "gridmapgenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alien",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangha81/GridMapGenerator.git"
+  },
+  "keywords": [
+    "typhoon"
+  ],
+  "bugs": {
+    "url": "https://github.com/wangha81/GridMapGenerator/issues"
+  },
+  "homepage": "https://github.com/wangha81/GridMapGenerator#readme",
+  "description": ""
+}
